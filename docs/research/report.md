@@ -18,7 +18,7 @@
 | Marti Hearst | Исследования в области интерфейсов поиска и рекомендательных систем, книга «Search User Interfaces» | https://people.ischool.berkeley.edu/~hearst/ |
 | Joseph A. Konstan | Рекомендательные системы, персонализация, оценка пользовательского опыта (GroupLens) | https://konstan.umn.edu/ |
 | Li Chen | Исследования conversational recommender systems и объяснимых рекомендаций | https://www.comp.hkbu.edu.hk/~lichen/ |
-| Д. И. Игнатов | Работы по диалоговым системам и пользовательским интерфейсам на русском языке | [[text](https://cyberleninka.ru/article/n/dialogovyh-sistemy-i-ego-struktury/viewer)](https://cyberleninka.ru/article/n/dialogovyh-sistemy-i-ego-struktury/viewer) |
+| Д. И. Игнатов | Работы по диалоговым системам и пользовательским интерфейсам на русском языке | https://cyberleninka.ru/article/n/dialogovyh-sistemy-i-ego-struktury/viewer |
 
 ### Организации
 
